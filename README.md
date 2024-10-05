@@ -46,6 +46,7 @@ To resolve these issues, I recommend using an older version of the PL2303 driver
    - Right-click on the device and select "Update driver".
    - Choose "Browse my computer for drivers".
    - Click on "Let me pick from a list of available drivers on my computer".
+   - Select the oldest driver available if no drivers are found continue to next steps.
    - Uncheck "Show compatible hardware" to view all drivers.
    - Look for the Prolific driver from 2007 in the list and select it.
 
