@@ -7,7 +7,7 @@ The PL2303 USB to Serial adapter is widely used for connecting various serial de
 ### Types of Cables Using PL2303 Chipset
 
 1. **USB to Serial Adapters**
-   - **Uses**: Connecting to network switches, routers, and firewalls for console access; connecting to barcode scanners, CNC machines, and industrial equipment; and programming ham radios for digital mode operation.
+   - **Uses**: Connecting to network switches, routers, and firewalls for console access; connecting to barcode scanners, CNC machines, and industrial equipment; and programming ham radios for firmware updates, frequency memory and digital mode operation.
    - **Common Connectors**: USB Type-A, USB Type-B, DB9, DB25.
 
 2. **USB to TTL Serial Cables**
