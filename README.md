@@ -34,7 +34,7 @@ These issues can hinder the use of essential devices that rely on serial communi
 
 ## Solution
 
-To resolve these issues, we recommend using an older version of the PL2303 driver. The driver file named `P3200.exe` has been identified as a reliable solution for ensuring proper functionality with PL2303 adapters on newer Windows systems.
+To resolve these issues, I recommend using an older version of the PL2303 driver. The driver file named `P3200.exe` has been identified as a reliable solution for ensuring proper functionality with PL2303 adapters on newer Windows systems.
 
 ### Installation Steps
 
